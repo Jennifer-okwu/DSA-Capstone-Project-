@@ -181,9 +181,18 @@ order by order_priority, ship_mode desc
 
 ```
 
-### Data Analysis
+### Findings / Results
 From the analysis, the following insights were derived:
 - The product category with the highest sales is technology.
+
+
+
+
+
+
+
+
+  
 - In terms of sales, West, Ontario and Prarie are the top 3 regions while Nunavut, Northwest Territories and Yukon are the bottom 3 regions.
 - The total sales of appliance in Ontario is #202346.840.
 - The management can increase the revenue from the bottom 10 customers by either one or all of the following strategies; analyzing purchase history to identify patterns or opportunities, offer targeted promotions or discounts that resonate with their needs, simplify transactions and make it easier for customers to do business, improve customer service, offer exclusive deals or early access to new products.
