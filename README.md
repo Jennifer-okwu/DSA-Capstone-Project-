@@ -185,21 +185,40 @@ order by order_priority, ship_mode desc
 From the analysis, the following insights were derived:
 - The product category with the highest sales is technology.
 
+![KMS1](https://github.com/user-attachments/assets/5547a94f-be2f-4ae4-abeb-5535895495bd)
 
-
-
-
-
-
-
-  
 - In terms of sales, West, Ontario and Prarie are the top 3 regions while Nunavut, Northwest Territories and Yukon are the bottom 3 regions.
+
+![KMS2](https://github.com/user-attachments/assets/329e7bc5-15de-4f31-bf05-23b3b89f0a24)
+
 - The total sales of appliance in Ontario is #202346.840.
 - The management can increase the revenue from the bottom 10 customers by either one or all of the following strategies; analyzing purchase history to identify patterns or opportunities, offer targeted promotions or discounts that resonate with their needs, simplify transactions and make it easier for customers to do business, improve customer service, offer exclusive deals or early access to new products.
+
+![KMS3](https://github.com/user-attachments/assets/9da87044-e477-4ff1-960b-e801f5dab72f)
+
 - The company incurred the most shipping cost using delivery truck shipping method.
+
+![KMS4](https://github.com/user-attachments/assets/b63260d7-bd7d-4c7b-bc20-eab11f7ab2ee)
+
 - The top 10 most valuable customers are: Emily Phan, Deborah Brumfield, Roy Skaria, Sylvia Foulston, Grant Carroll, Alejandro Grove, Darren Budd, Julia Barnett, John Lucas, and Liz Mackendrick. The products and services they typically purchase include: chair & chair mats, tables, office furnishings, telephone & communication, computer peripherals, storage and organization, appliances, paper, bookcases, binders & binder accessories, etc.
+
+![KMS5](https://github.com/user-attachments/assets/57800536-4622-4fde-a4d6-55a7bdccf165)
+
+![KMS6](https://github.com/user-attachments/assets/a09d1835-5b11-456b-bec7-215a72a5a54b)
+
 - The small business customer with the highest sales is Dennis Kane.
 - Adam Hart is the corporate customer that placed the most number of orders.
+
+![KMS7](https://github.com/user-attachments/assets/6e212d59-063d-4de1-ba06-5ab7ec1e77a4)
+
 - The most profitable consumer customer was Emily Phan.
+
+![KMS8](https://github.com/user-attachments/assets/ae3ed930-10c5-4eb8-8eab-72f360ed97c7)
+
 - About 872 customers returned items and these customers span across the various customer base of the company.
+
+![KMS9](https://github.com/user-attachments/assets/75a37b36-7d1e-446f-999b-390bdadff588)
+
 - I think the company appropriately spent shipping costs based on the order priority because for items that have critical and high order priority which needs to be delivered quickly to the customer, it still took the same average number of days (1 day) to deliver with express air as would the delivery truck. It was more economical for the company to use delivery trucks for items with critical and high order priority (as it would save shipping cost) since it would take the same average number of days if they were to be delivered by express air which is fast but more expensive.
+
+![KMS10](https://github.com/user-attachments/assets/29b3459b-76b0-43a7-bbdf-52dcb16051ad)
