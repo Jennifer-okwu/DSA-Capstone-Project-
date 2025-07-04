@@ -222,3 +222,8 @@ From the analysis, the following insights were derived:
 - I think the company appropriately spent shipping costs based on the order priority because for items that have critical and high order priority which needs to be delivered quickly to the customer, it still took the same average number of days (1 day) to deliver with express air as would the delivery truck. It was more economical for the company to use delivery trucks for items with critical and high order priority (as it would save shipping cost) since it would take the same average number of days if they were to be delivered by express air which is fast but more expensive.
 
 ![KMS10](https://github.com/user-attachments/assets/29b3459b-76b0-43a7-bbdf-52dcb16051ad)
+
+### Recommendations
+- The company should develop reward programs to appreciate their valuable customers and also sustain their loyalty.
+- More branches of the company should be opened in regions with the lowest sales.
+- The customer service of the company should obtain feedback from customers who returned items to know why the items were returned in order to prevent future occurrence.
